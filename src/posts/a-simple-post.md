@@ -1,5 +1,5 @@
 ---
-title: A simple post
+title: Simulador de créditos
 date: '2019-06-18'
 tags:
   - demo-content
