@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Especialistas en aplicaciones
-postsHeading: Aplicaciones
+postsHeading: Productos
 archiveButtonText: See all posts
 metaDesc: 'Bin Tech desarrolla aplicaciones de software con Oracle Apex de manera rápida.'
 socialImage: ''
