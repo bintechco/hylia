@@ -1,6 +1,5 @@
 ---
-title: A post with code samples
-date: '2019-06-18'
+title: Eventos
 tags:
   - demo-content
   - code
